@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;com.microsoft.cognitive_services.speech_recognition.SpeechAPI&apos; to &apos;FinalProject/src&apos;&#x0D;&#x0A;- Original project: &apos;stt&apos;&#x0D;&#x0A;- Destination element: &apos;FinalProject/src&apos;&#x0D;&#x0A;- Original element: &apos;stt/src/com.microsoft.cognitive_services.speech_recognition.SpeechAPI&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=FinalProject/src" element1="/src&lt;com.microsoft.cognitive_services.speech_recognition.SpeechAPI" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1537445836534" version="1.0"/>
+</session>

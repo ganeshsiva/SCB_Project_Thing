@@ -1,0 +1,29 @@
+
+fsquid:S1192"GDefine a constant instead of duplicating this literal "credit" 4 times.(ÊÌÄÕùÿÿÿÿH„
+Dsquid:S00108T")Either remove or fill this block of code.(Äé†ˆH•
+Dsquid:S00108-")Either remove or fill this block of code.(Äé†ˆH
+Dsquid:S00108/")Either remove or fill this block of code.(Äé†ˆH
+Y
+squid:S106	";Replace this usage of System.out or System.err by a logger.(„í°¾şÿÿÿÿHˆ
+Lsquid:S1199#"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿH†
+tsquid:S001229"TAt most one statement is allowed per line, but 2 statements were found on this line.(·ãöäøÿÿÿÿH˜
+tsquid:S00122K"TAt most one statement is allowed per line, but 2 statements were found on this line.(·ãöäøÿÿÿÿH™
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(§¯ÅşH‡
+Dsquid:S00108A")Either remove or fill this block of code.(Äé†ˆH‘
+Dsquid:S00108V")Either remove or fill this block of code.(Äé†ˆH’
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(æ·‚ÈHŠ
+Ysquid:S1118":Add a private constructor to hide the implicit public one.(¾´çÈûÿÿÿÿH‹
+Dsquid:S001081")Either remove or fill this block of code.(Äé†ˆHŒ
+ysquid:S1067"ZReduce the number of conditional operators (8) used in the expression (maximum allowed 3).(ÊÌÄÕùÿÿÿÿH…
+Dsquid:S00108?")Either remove or fill this block of code.(Äé†ˆH
+S
+squid:S106";Replace this usage of System.out or System.err by a logger.(‡˜Ò`H‰
+tsquid:S00122^"TAt most one statement is allowed per line, but 2 statements were found on this line.(·ãöäøÿÿÿÿHš
+Dsquid:S00108R")Either remove or fill this block of code.(Äé†ˆH”
+fsquid:S1192"GDefine a constant instead of duplicating this literal "saving" 4 times.(ÊÌÄÕùÿÿÿÿHƒ
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(‚Û‰şH—
+Dsquid:S00108C")Either remove or fill this block of code.(Äé†ˆH
+Dsquid:S00108P")Either remove or fill this block of code.(Äé†ˆH“
+vsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÎŠ¾ÿÿÿÿÿH–
